@@ -1,2 +1,2 @@
 # hopfield-neural-networks
-Hebbian learning : neurone that fire together are wired together 
+Hebbian learning : neurons that fire together are wired together 
